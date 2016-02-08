@@ -1,13 +1,12 @@
 {
-  "name": "arlosvc",
-  "description": "Service for handling arlo operations",
+  "name": "arlosrvc",
+  "description": "A Service to Automate Mode Change for Arlo Security Cameras",
   "author": "Punit Agrawal",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "dependencies": {
     "async": "^1.5.2",
     "body-parser": "~1.0.1",
     "express": "^4.13.3",
-    "https": "^1.0.0",
     "unirest": "^0.4.2"
   }
 }
