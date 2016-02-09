@@ -1,6 +1,14 @@
 Welcome to arlosrvc - **A Service to Automate Mode Change for Arlo Security Cameras**
 ===================
 
+[New] Use a deployed solution
+-------------
+Endpoints : 
+> - Arm : https://gintoo.com/api/arm
+> - Disarm : https://gintoo.com/api/disarm
+
+Refer to [this](#how-to-issue-requests-against-the-service) section for learning how to issue requests. (Replace localhost with the above endpoints)
+
 How to Run
 -------------
 > - You can run this as a standalone node server or in a docker on your local machine. 
